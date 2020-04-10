@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+
+	<title>Property Website</title>
+	<link rel="stylesheet" type="text/css" href="styl.css">
+</head>
+<body>
+	<header>
+		<div class="wreapper">
+			<div class="company logo">
+
+				<div class="site-info">
+					<span> Mon - sat 8.00 - 18.00. Sunday closed Sunday CLOSED</span>
+					<div class="site-contact">
+						
+					</div>
+					<span> Mon - sat 8.00 - 18.00 </span>
+				</div>
+				
+			</div>
+			<img src="images/logo.png" alt="" >
+			
+		</div>
+		<ul class="nav-area">
+			<li><a href="buy.html"><font face="sans-series">Buy</font></a></li>
+			<li><a href="rent.html"><font face="sans-series"></font> Rent</a></li>
+			<li><a href="sell.html"><font face="sans-series"></font> sell</a></li>
+			<li><a href="contact.html"><font face="sans-series"></font> contact us</a></li>
+			<li><a href="Hello.html"><font face="sans-series"></font> Hello sign up</a></li>
+			<div ass="row">
+			<div class="column">
+				<div class="card">
+					<img src="C:\Users\adity\Documents\html\aditya kumar joyti.jpg" style="width: 150px;height: auto;padding-top: 10px">
+					<h1>Aditya kumar jyoti</h1>
+					<p class="title">11906269<br>K19RT08</p>
+					<P>LPU University</P>
+					<a href="#"><i class="fa fa-instagram"></i></a>
+					<a href="#"><i class="fa fa-facebook"></i></a>
+					<p><button type="menu" onclick="popup1()">Contact</button></p>
+					<script>
+						function popup1()
+						{
+							alert("8789745631");
+						}
+					</script>
+					<div class="column">
+						<div class="card">
+							<img src="C:\Users\adity\Documents\html\joshua.jpg"style="width: 150px;height: auto;padding-top: 10px">
+							<h2>D Joshua</h2>
+							<p class="title">11906227<br>K19RT07</p>
+							<P>LPU University</P>
+							<div class="column">
+								<div class="card">
+									<img src="C:\Users\adity\Documents\html\aditya.jpg"style="width: 150px;height: auto;padding-top: 10px">
+									<h3>Vegula Aditya</h3>
+									<p class="title">11906100<br>KI9RT09</p>
+									<P>LPU University</P>
+									<script>
+										{
+											function popup3()
+											alert("8789745631");
+										}
+									</script>
+								</div>
+								
+							</div>
+							<script>
+								function popup2()
+								{
+									alert("+91 8789745631");
+								}
+							</script>
+							
+						</div>
+						
+					</div>
+
+
+					
+				</div>
+				
+			</div> 
+			</div>
+ 
+
+			
+		</ul>
+	</header>
+	<div class="wreapper"></div>
+	<div class="logo"></div>
+	<iong src="images/logo"alt="">
+		<ul class="nav-area">
+	
+
+			</li>
+		</ul>
+		<div class="welcome-text">
+			<h1>Property Website</h1>
+			<a href="#">contact us</a>
+		</div>
+
+</body>
+</html>
